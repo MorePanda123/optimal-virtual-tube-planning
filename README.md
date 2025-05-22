@@ -13,6 +13,7 @@ First, you should git clone the codes:
 git clone https://github.com/MorePanda123/optimal-virtual-tube-planning.git
 ```
 Then, enter the folder "optimal-virtual-tube-planning". Afer that, you will see two folders named "planning_3d" and "mpc" respectively. You can select any of them to run independtly, accroding to your usage.
+
 ## Demo of optimal virtual tube planning
 Enter the folder "planning_3d" and run the file named "test.m" in MATLAB. Then, you will see the planning results in the figure.
 ## Demo of MPC within the optimal virtual tube
